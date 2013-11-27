@@ -19,6 +19,22 @@
 		E9E1E8F7184610A1005E473A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9E1E8DF184610A1005E473A /* UIKit.framework */; };
 		E9E1E8FF184610A1005E473A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E8FD184610A1005E473A /* InfoPlist.strings */; };
 		E9E1E901184610A1005E473A /* MBFrostedGlassStylePopupDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E900184610A1005E473A /* MBFrostedGlassStylePopupDemoTests.m */; };
+		E9E1E91118461206005E473A /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E90E18461205005E473A /* UIImage+Blur.m */; };
+		E9E1E91218461206005E473A /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E90E18461205005E473A /* UIImage+Blur.m */; };
+		E9E1E91518461333005E473A /* MBFrostedGlassStylePopup.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E91418461333005E473A /* MBFrostedGlassStylePopup.m */; };
+		E9E1E91618461333005E473A /* MBFrostedGlassStylePopup.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E91418461333005E473A /* MBFrostedGlassStylePopup.m */; };
+		E9E1E919184614B0005E473A /* UIView+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E918184614B0005E473A /* UIView+Ext.m */; };
+		E9E1E91A184614B0005E473A /* UIView+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E918184614B0005E473A /* UIView+Ext.m */; };
+		E9E1E91D18461580005E473A /* DemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E91C18461580005E473A /* DemoViewController.m */; };
+		E9E1E91E18461580005E473A /* DemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1E91C18461580005E473A /* DemoViewController.m */; };
+		E9E1E92418461652005E473A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92018461652005E473A /* 1.png */; };
+		E9E1E92518461652005E473A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92018461652005E473A /* 1.png */; };
+		E9E1E92618461652005E473A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92118461652005E473A /* 2.png */; };
+		E9E1E92718461652005E473A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92118461652005E473A /* 2.png */; };
+		E9E1E92818461652005E473A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92218461652005E473A /* 3.png */; };
+		E9E1E92918461652005E473A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92218461652005E473A /* 3.png */; };
+		E9E1E92A18461652005E473A /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92318461652005E473A /* 4.png */; };
+		E9E1E92B18461652005E473A /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = E9E1E92318461652005E473A /* 4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +64,18 @@
 		E9E1E8FC184610A1005E473A /* MBFrostedGlassStylePopupDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MBFrostedGlassStylePopupDemoTests-Info.plist"; sourceTree = "<group>"; };
 		E9E1E8FE184610A1005E473A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E9E1E900184610A1005E473A /* MBFrostedGlassStylePopupDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBFrostedGlassStylePopupDemoTests.m; sourceTree = "<group>"; };
+		E9E1E90D18461205005E473A /* UIImage+Blur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Blur.h"; sourceTree = "<group>"; };
+		E9E1E90E18461205005E473A /* UIImage+Blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Blur.m"; sourceTree = "<group>"; };
+		E9E1E91318461333005E473A /* MBFrostedGlassStylePopup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBFrostedGlassStylePopup.h; sourceTree = "<group>"; };
+		E9E1E91418461333005E473A /* MBFrostedGlassStylePopup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBFrostedGlassStylePopup.m; sourceTree = "<group>"; };
+		E9E1E917184614B0005E473A /* UIView+Ext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Ext.h"; sourceTree = "<group>"; };
+		E9E1E918184614B0005E473A /* UIView+Ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Ext.m"; sourceTree = "<group>"; };
+		E9E1E91B18461580005E473A /* DemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController.h; sourceTree = "<group>"; };
+		E9E1E91C18461580005E473A /* DemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController.m; sourceTree = "<group>"; };
+		E9E1E92018461652005E473A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		E9E1E92118461652005E473A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E9E1E92218461652005E473A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		E9E1E92318461652005E473A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,10 +135,14 @@
 		E9E1E8E1184610A1005E473A /* MBFrostedGlassStylePopupDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E9E1E91F18461652005E473A /* resource */,
+				E9E1E90A18461205005E473A /* MBFrostedGlassStylePopup */,
 				E9E1E8EA184610A1005E473A /* AppDelegate.h */,
 				E9E1E8EB184610A1005E473A /* AppDelegate.m */,
 				E9E1E8ED184610A1005E473A /* Images.xcassets */,
 				E9E1E8E2184610A1005E473A /* Supporting Files */,
+				E9E1E91B18461580005E473A /* DemoViewController.h */,
+				E9E1E91C18461580005E473A /* DemoViewController.m */,
 			);
 			path = MBFrostedGlassStylePopupDemo;
 			sourceTree = "<group>";
@@ -142,6 +174,30 @@
 				E9E1E8FD184610A1005E473A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E9E1E90A18461205005E473A /* MBFrostedGlassStylePopup */ = {
+			isa = PBXGroup;
+			children = (
+				E9E1E917184614B0005E473A /* UIView+Ext.h */,
+				E9E1E918184614B0005E473A /* UIView+Ext.m */,
+				E9E1E91318461333005E473A /* MBFrostedGlassStylePopup.h */,
+				E9E1E91418461333005E473A /* MBFrostedGlassStylePopup.m */,
+				E9E1E90D18461205005E473A /* UIImage+Blur.h */,
+				E9E1E90E18461205005E473A /* UIImage+Blur.m */,
+			);
+			path = MBFrostedGlassStylePopup;
+			sourceTree = "<group>";
+		};
+		E9E1E91F18461652005E473A /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				E9E1E92018461652005E473A /* 1.png */,
+				E9E1E92118461652005E473A /* 2.png */,
+				E9E1E92218461652005E473A /* 3.png */,
+				E9E1E92318461652005E473A /* 4.png */,
+			);
+			path = resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,7 +275,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9E1E92A18461652005E473A /* 4.png in Resources */,
+				E9E1E92818461652005E473A /* 3.png in Resources */,
+				E9E1E92418461652005E473A /* 1.png in Resources */,
 				E9E1E8E6184610A1005E473A /* InfoPlist.strings in Resources */,
+				E9E1E92618461652005E473A /* 2.png in Resources */,
 				E9E1E8EE184610A1005E473A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -228,7 +288,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9E1E92718461652005E473A /* 2.png in Resources */,
 				E9E1E8FF184610A1005E473A /* InfoPlist.strings in Resources */,
+				E9E1E92518461652005E473A /* 1.png in Resources */,
+				E9E1E92B18461652005E473A /* 4.png in Resources */,
+				E9E1E92918461652005E473A /* 3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +304,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9E1E8EC184610A1005E473A /* AppDelegate.m in Sources */,
+				E9E1E919184614B0005E473A /* UIView+Ext.m in Sources */,
+				E9E1E91118461206005E473A /* UIImage+Blur.m in Sources */,
+				E9E1E91D18461580005E473A /* DemoViewController.m in Sources */,
+				E9E1E91518461333005E473A /* MBFrostedGlassStylePopup.m in Sources */,
 				E9E1E8E8184610A1005E473A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -248,7 +316,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9E1E91A184614B0005E473A /* UIView+Ext.m in Sources */,
+				E9E1E91218461206005E473A /* UIImage+Blur.m in Sources */,
 				E9E1E901184610A1005E473A /* MBFrostedGlassStylePopupDemoTests.m in Sources */,
+				E9E1E91E18461580005E473A /* DemoViewController.m in Sources */,
+				E9E1E91618461333005E473A /* MBFrostedGlassStylePopup.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,7 +387,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -348,7 +420,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -357,6 +429,7 @@
 		E9E1E905184610A1005E473A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -370,6 +443,7 @@
 		E9E1E906184610A1005E473A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
