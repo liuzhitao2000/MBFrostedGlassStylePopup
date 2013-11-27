@@ -10,5 +10,11 @@ a frosted glass style popup for ios
 <img width="320" src="http://raw.github.com/liuzhitao2000/MBFrostedGlassStylePopup/dev/MBFrostedGlassStylePopupDemo/example/show_3.png" /> 
 <img width="320" src="http://raw.github.com/liuzhitao2000/MBFrostedGlassStylePopup/dev/MBFrostedGlassStylePopupDemo/example/show_4.png" /> 
 
+Thanks
+========================
+
+* https://github.com/rnystrom/RNFrostedSidebar
+* https://github.com/tomsoft1/StackBluriOS
+
 
 
